@@ -6,7 +6,7 @@
     "sepolia": {
       "ownedBy": "0x000000000000000000000000000000000000dEaD"
     },
-    "test": {
+    "chain": {
       "ownedBy": "0x0123456789abcdef0123456789abcdef01234567"
     }
   }
