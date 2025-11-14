@@ -8,6 +8,12 @@
     },
     "chain": {
       "ownedBy": "0x0123456789abcdef0123456789abcdef01234567"
+    },
+    "empty": {
+       "dead": "0x000000000000000000000000000000000000dEaD"
+    },
+    "invalid": {
+        "ownedBy": "0x00invalid"
     }
   }
 }
