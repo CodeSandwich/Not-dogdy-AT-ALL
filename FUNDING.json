@@ -1,7 +1,7 @@
 {
   "drips": {
     "ethereum": {
-      "ownedBy": "0x341a08926dCa7fa7D135F96E4d76b696e5f6d38a"
+      "ownedBy": "0x341a08926DcA7FA7D135F96e4D76B696e5f6D38A"
     },
     "sepolia": {
       "ownedBy": "0x000000000000000000000000000000000000dEaD"
@@ -16,13 +16,13 @@
         "ownedBy": "0x00invalid"
     },
     "optimism": {
-      "ownedBy": "0x341a08926dCa7fa7D135F96E4d76b696e5f6d38e"
+      "ownedBy": "0x341a08926Dca7fA7d135f96E4d76b696E5f6d38e"
     },
     "filecoin": {
-      "ownedBy": "0x341a08926dCa7fa7D135F96E4d76b696e5f6d38f"
+      "ownedBy": "0x341A08926dca7FA7D135F96E4D76b696E5F6D38F"
     },
     "metis": {
-      "ownedBy": "0x341a08926dCa7fa7D135F96E4d76b696e5f6d38c"
+      "ownedBy": "0x341a08926DCA7Fa7D135f96e4d76B696e5F6D38c"
     }
   }
 }
