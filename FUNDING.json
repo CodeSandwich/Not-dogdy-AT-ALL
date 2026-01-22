@@ -14,6 +14,15 @@
     },
     "invalid": {
         "ownedBy": "0x00invalid"
+    },
+    "optimism": {
+      "ownedBy": "0x341a08926dCa7fa7D135F96E4d76b696e5f6d38e"
+    },
+    "filecoin": {
+      "ownedBy": "0x341a08926dCa7fa7D135F96E4d76b696e5f6d38f"
+    },
+    "metis": {
+      "ownedBy": "0x341a08926dCa7fa7D135F96E4d76b696e5f6d38c"
     }
   }
 }
